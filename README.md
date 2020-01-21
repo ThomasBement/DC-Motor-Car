@@ -1,0 +1,2 @@
+# DC-Motor-Car
+For a grade 12 physics project I was tasked with leading a group in building a DC motor to power an electric car. Due to previous shop and electrical work experience I led the build for the project including turning laminations for the core of the rotor which was a three armature design. The motor ended up having a large RPM output so I used a friction clutch and a gearbox to establish a fictional car powered by the DC motor which won the competition. 
